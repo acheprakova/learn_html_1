@@ -158,6 +158,7 @@
   .news__slider-inner .slick-btn{
     bottom: -90px;
   }
+  .about__text { min-width: auto;}
 }
 @media (max-width: 414px){
   .slider__title{
